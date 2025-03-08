@@ -1,0 +1,8 @@
+setup.py
+Multi_Lingual_assistant.egg-info/PKG-INFO
+Multi_Lingual_assistant.egg-info/SOURCES.txt
+Multi_Lingual_assistant.egg-info/dependency_links.txt
+Multi_Lingual_assistant.egg-info/requires.txt
+Multi_Lingual_assistant.egg-info/top_level.txt
+src/__init__.py
+src/helper.py
